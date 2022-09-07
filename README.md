@@ -1,4 +1,4 @@
-# election_analysis
+# Election Audit Challenge
 
 ## Project Overview
 "A Colorado board of elections employee has given you the following task to complete sthe election audit of a recent logal congressional election." 
@@ -15,24 +15,24 @@
 
 ## Summary
 The analysis of the election show that:
-- There were "X" votes cast in the election.
+- There were 369,711 votes cast in the election.
 -  The candidates were:
-  - Candidate 1
-  - Candidate 2
-  - Candidate 3
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
 - The candidate results were:
-  - Candidate 1 received "X%" of the vote and "Y" number of votes.
-  - Candidate 2 received "X%" of the vote and "Y" number of votes.
-  - Candidate 3 received "X%" of the vote and "Y" number of votes.
+  - Charles Casper Stockham received "23.0%" of the vote and "85,213" number of votes.
+  - Diana DeGette received "73.8%" of the vote and "272,892" number of votes.
+  - Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
 - The winner of the election was:
-  - Candidate (1, 2, or 3) who received "X%" of the vote and "Y" number of votes.
+  - Diana DeGette who received "73.8%" of the vote and "272,892" number of votes.
   
 ## Challenge Overview
 The purpose of the challenge was to find the voter turnout for each county, the percentage of votes from each county, and the county with the highest turnout. Using python script, such as conditional statements, decision statements, and equations, we can find the more information about the "election." 
 
 ## Challenge Summary -- Results
 - How many votes were cast in this congressional election?
-
+  - 
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 - Which county had the largest number of votes?
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
